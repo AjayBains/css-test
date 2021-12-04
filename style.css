@@ -25,6 +25,10 @@
 .button:hover {
   background-color: #7fd5f3;
 }
+.button:focus {
+  background-color: #7fd5f3;
+  border-color: #0070b4;
+}
 
 .dropdown {
   position: relative;
